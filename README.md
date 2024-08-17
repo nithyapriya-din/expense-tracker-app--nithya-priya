@@ -155,4 +155,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 By default, the generated project uses the latest version of React.
 
 You can refer [to the React documentation](https://reactjs.org/docs/react-dom.html#browser-support) for more information about supported browsers.
+DEPLOYMENT LINK:https://sad-shirley-6ef62f.netlify.app/
 
